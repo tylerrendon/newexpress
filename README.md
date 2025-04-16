@@ -12,3 +12,8 @@ Follow The Link and just click one of the Links!
 });
   
 Just Like that you have used the exact tech stack I used to create this project being node and express.
+
+To clone my repo just use git clone https://github.com/username/repo-name.git
+
+and follow the steps previously mentioned, Happy Coding !
+
